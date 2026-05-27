@@ -8,7 +8,7 @@ const workGroups = [
         tag: "后人类寓言",
         duration: "12:06",
         poster: "./assets/covers/last-poet-on-earth.jpg",
-        video: "./assets/videos/last-poet-on-earth.mp4",
+        video: "./assets/videos/diqiushangzuihouyigeshiren.mp4",
         description:
           "关于记忆、痛苦、存在与救赎的后人类寓言。在“飞升”成为普遍选择后，最后一个人类创造仿生人与机器人同伴，试图解答何为人类的终极困惑。",
       },
@@ -59,7 +59,7 @@ const workGroups = [
         tag: "品牌叙事",
         duration: "02:28",
         poster: "./assets/covers/letter-to-myself.png",
-        video: "./assets/videos/letter-to-myself.mp4",
+        video: "./assets/videos/geizijideyifengxin.mp4",
         description:
           "从 1999 年的旧电脑到未来的全息数据海洋，两个时代的小雅隔空相望，完成一次关于选择、成长与自我接纳的时光回信。",
       },
@@ -74,7 +74,7 @@ const workGroups = [
         tag: "IP 漫剧",
         duration: "01:23",
         poster: "./assets/covers/lord-of-mysteries-tinggen.png",
-        video: "./assets/videos/lord-of-mysteries-tinggen.mp4",
+        video: "./assets/videos/guimizhizhu.mp4",
         description:
           "“我们是守护者，也是一群时刻对抗危险和疯狂的可怜虫。”以克制而阴郁的视听进入廷根守护者的命运切面。",
       },
@@ -83,7 +83,7 @@ const workGroups = [
         tag: "怪谈漫剧",
         duration: "03:13",
         poster: "./assets/covers/ghost-forum-slayer.png",
-        video: "./assets/videos/ghost-forum-slayer.mp4",
+        video: "./assets/videos/wozaiguaidanluntan.mp4",
         description:
           "普通学生误入神秘怪谈论坛，论坛诡事逐渐照进现实。他在一次次危机中升级求生，进入规则怪谈的阴影深处。",
       },
